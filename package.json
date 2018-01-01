@@ -1,0 +1,17 @@
+{
+  "name": "generator-microbes",
+  "version": "1.0.0",
+  "description": "Microbe Generators",
+  "repository": "cbdowell/generator-microbes",
+  "bugs": "https://github.com/cbdowell/generator-microbes/issues",
+  "homepage": "https://github.com/cbdowell/generator-microbes",
+  "license": "MIT",
+  "scripts": {
+    "push-changes": "node ./scripts/push-changes.js"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "shelljs": "^0.7.8",
+    "husky": "^0.14.3"
+  }
+}
